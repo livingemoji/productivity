@@ -1,3 +1,5 @@
+| **Google Colab** | [Open in Colab](https://colab.research.google.com/github/livingemoji/productivity/blob/main/workforce_productivity_system.ipynb) |
+
 # AI-Driven Workforce Productivity & Operations Insight System
 
 This project provides a comprehensive analysis system for workforce productivity using machine learning and data visualization techniques. The system processes workforce data to generate meaningful insights about employee productivity, identify patterns, and detect anomalies.
